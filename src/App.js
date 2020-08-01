@@ -10,6 +10,7 @@ class App extends Component {
         <Greet />
         <Welcome />
         <h2>It is learning process</h2>
+        <h3>This is for the daily Commit</h3>
       </div>
     );
   }
