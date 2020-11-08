@@ -5,7 +5,7 @@ import Form from 'react-bootstrap/Form';
 import FormControl from 'react-bootstrap/FormControl';
 import Button from 'react-bootstrap/Button';
 
-function navbarMenu(){
+function NavbarMenu(){
   return  <Navbar bg="primary" variant="dark">
   <Navbar.Brand href="#home">Navbar</Navbar.Brand>
   <Nav className="mr-auto">
@@ -21,4 +21,4 @@ function navbarMenu(){
 ;
 }
 
-export default navbarMenu;
+export default NavbarMenu;
